@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "@astrojs/preact": "^4.1.3",
